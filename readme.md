@@ -10,20 +10,6 @@
 
 Este projeto foi desenvolvido como parte de uma avaliação prática para a vaga de Desenvolvedor Fullstack. O objetivo é demonstrar proficiência em tecnologias e boas práticas de desenvolvimento web com Java.
 
-
-## 📋 Requisitos e Documentação
-
-Os requisitos completos do teste técnico (prova) estão detalhados no documento oficial:
-* **[Enunciado](https://github.com/marcelogmoura/desafioTarget.API/blob/main/Pdf/desafio_dev.pdf)**
-
-## 🎯 Projedata - UI
-
-O frontend do projeto se encontra no repositório abaixo:
-
-* **[FrontEnd](https://github.com/marcelogmoura/projedata-ui)**
-
-
-
 # 🏭 Factory Manager Pro
 
 Sistema de gestão de estoque e otimização de produção industrial. O projeto calcula automaticamente o melhor mix de produtos para maximizar o lucro com base nos insumos disponíveis.
@@ -32,6 +18,17 @@ Sistema de gestão de estoque e otimização de produção industrial. O projeto
 - **Back-end:** Java 17, Spring Boot, Spring Data JPA, H2 Database (In-memory).
 - **Front-end:** Vue.js 3 (Vite), Axios.
 - **Arquitetura:** REST API com separação de responsabilidades (Controller, Service, Repository).
+
+## 📋 Requisitos e Documentação
+
+Os requisitos completos do teste técnico (prova) estão detalhados no documento oficial:
+* **[Enunciado](https://github.com/marcelogmoura/projedata-api/blob/main/pdf/Enunciado.pdf)**
+
+## 🎯 Frontend - Projedata_UI
+
+O frontend do projeto se encontra no repositório abaixo:
+
+* **[FrontEnd](https://github.com/marcelogmoura/projedata-ui)**
 
 ## 🚀 Como Rodar o Projeto
 
@@ -68,9 +65,11 @@ Estrutura
 ![Imagem](https://i.postimg.cc/jdxxRZcs/Screenshot-1.jpg) 
 
 Swagger
+
 ![Imagem](https://i.postimg.cc/PrXXd2yN/Screenshot-2.jpg)
 
 Front
+
 ![Imagem](https://i.postimg.cc/NfssQpDF/Screenshot-9.jpg)
 
 
